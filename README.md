@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Website
 
-[Website project](dio-trilha-react-desafio-01-calculadora-l9in4xbvo-mk-nascimento.vercel.app)
+[Website project](https://dio-trilha-react-desafio-01-calculadora-l9in4xbvo-mk-nascimento.vercel.app)
 
 ## Available Scripts
 
